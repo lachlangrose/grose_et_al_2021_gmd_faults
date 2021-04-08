@@ -7605,3 +7605,704 @@ for modelling using DFI
 2021-04-07 07:07:49,167 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
 2021-04-07 07:07:49,172 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
 2021-04-07 07:07:49,172 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 02:49:21,628 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Initialising geological model
+2021-04-08 02:49:21,628 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Initialising geological model
+2021-04-08 02:49:21,629 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Model origin: 0.0 0.0 0.0
+2021-04-08 02:49:21,629 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Model origin: 0.0 0.0 0.0
+2021-04-08 02:49:21,629 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Model maximum: 10000.0 7000.0 5000.0
+2021-04-08 02:49:21,629 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Model maximum: 10000.0 7000.0 5000.0
+2021-04-08 02:49:21,629 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Rescaling model using scale factor 10000.0
+2021-04-08 02:49:21,629 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Rescaling model using scale factor 10000.0
+2021-04-08 02:49:21,629 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Reusing interpolation supports: False
+2021-04-08 02:49:21,629 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Reusing interpolation supports: False
+2021-04-08 02:49:21,629 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Adding data to GeologicalModel with 513 data points
+2021-04-08 02:49:21,629 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Adding data to GeologicalModel with 513 data points
+2021-04-08 02:49:21,637 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Converting strike and dip to vectors
+2021-04-08 02:49:21,637 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Converting strike and dip to vectors
+2021-04-08 02:49:21,644 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Creating regular grid with 9450 elements 
+for modelling using FDI
+2021-04-08 02:49:21,644 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Creating regular grid with 9450 elements 
+for modelling using FDI
+2021-04-08 02:49:21,645 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 10912 degrees of freedom
+2021-04-08 02:49:21,645 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 10912 degrees of freedom
+2021-04-08 02:49:21,646 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 10912 degrees of freedom
+2021-04-08 02:49:21,646 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 10912 degrees of freedom
+2021-04-08 02:49:21,647 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 10912 degrees of freedom
+2021-04-08 02:49:21,647 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 10912 degrees of freedom
+2021-04-08 02:49:21,650 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 02:49:21,650 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 02:49:21,653 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 02:49:21,653 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 02:49:21,657 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 02:49:21,657 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 02:49:21,671 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Setting mesh origin: -0.1 -0.06999999999999999 -0.05 
+2021-04-08 02:49:21,671 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Setting mesh origin: -0.1 -0.06999999999999999 -0.05 
+2021-04-08 02:49:21,671 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Setting mesh maximum: 1.1 0.7699999999999999 0.55
+2021-04-08 02:49:21,671 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Setting mesh maximum: 1.1 0.7699999999999999 0.55
+2021-04-08 02:49:21,671 ~ LoopStructural.modelling.features.structural_frame_builder ~ INFO       ~ Building fault coordinate 0
+2021-04-08 02:49:21,671 ~ LoopStructural.modelling.features.structural_frame_builder ~ INFO       ~ Building fault coordinate 0
+2021-04-08 02:49:21,672 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 4416 degrees of freedom
+2021-04-08 02:49:21,672 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 4416 degrees of freedom
+2021-04-08 02:49:21,673 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 4416 degrees of freedom
+2021-04-08 02:49:21,673 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 4416 degrees of freedom
+2021-04-08 02:49:21,673 ~ LoopStructural.modelling.features.structural_frame_builder ~ INFO       ~ Building fault coordinate 2
+2021-04-08 02:49:21,673 ~ LoopStructural.modelling.features.structural_frame_builder ~ INFO       ~ Building fault coordinate 2
+2021-04-08 02:49:21,673 ~ LoopStructural.modelling.features.structural_frame_builder ~ INFO       ~ Building fault coordinate 1
+2021-04-08 02:49:21,673 ~ LoopStructural.modelling.features.structural_frame_builder ~ INFO       ~ Building fault coordinate 1
+2021-04-08 02:49:21,673 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Adding fault to model at location 1
+2021-04-08 02:49:21,673 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Adding fault to model at location 1
+2021-04-08 02:49:21,673 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Creating regular grid with 9450 elements 
+for modelling using FDI
+2021-04-08 02:49:21,673 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Creating regular grid with 9450 elements 
+for modelling using FDI
+2021-04-08 02:49:21,674 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 10912 degrees of freedom
+2021-04-08 02:49:21,674 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 10912 degrees of freedom
+2021-04-08 02:49:21,675 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 10912 degrees of freedom
+2021-04-08 02:49:21,675 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 10912 degrees of freedom
+2021-04-08 02:49:21,676 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 10912 degrees of freedom
+2021-04-08 02:49:21,676 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 10912 degrees of freedom
+2021-04-08 02:49:21,679 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 02:49:21,679 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 02:49:21,682 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 02:49:21,682 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 02:49:21,685 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 02:49:21,685 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 02:49:21,687 ~ LoopStructural.modelling.features.structural_frame_builder ~ INFO       ~ Building s1 coordinate 0
+2021-04-08 02:49:21,687 ~ LoopStructural.modelling.features.structural_frame_builder ~ INFO       ~ Building s1 coordinate 0
+2021-04-08 02:49:21,688 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 02:49:21,688 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 02:49:21,689 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 02:49:21,689 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 02:49:21,689 ~ LoopStructural.modelling.features.structural_frame_builder ~ INFO       ~ Building s1 coordinate 1
+2021-04-08 02:49:21,689 ~ LoopStructural.modelling.features.structural_frame_builder ~ INFO       ~ Building s1 coordinate 1
+2021-04-08 02:49:21,689 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Adding s1 to model at location 2
+2021-04-08 02:49:21,689 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Adding s1 to model at location 2
+2021-04-08 02:49:21,760 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to fault_0
+2021-04-08 02:49:21,760 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to fault_0
+2021-04-08 02:49:21,769 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Setting gradient points to norm constraints
+2021-04-08 02:49:21,769 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Setting gradient points to norm constraints
+2021-04-08 02:49:21,830 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for fault_0
+2021-04-08 02:49:21,830 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for fault_0
+2021-04-08 02:49:21,830 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 02:49:21,830 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 02:49:21,831 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 17672 x 4416
+2021-04-08 02:49:21,831 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 17672 x 4416
+2021-04-08 02:49:21,856 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 02:49:21,856 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 02:49:21,858 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 02:49:21,858 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 02:49:24,257 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to fault_1
+2021-04-08 02:49:24,257 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to fault_1
+2021-04-08 02:49:24,286 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to fault_2
+2021-04-08 02:49:24,286 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to fault_2
+2021-04-08 02:49:24,370 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for fault_2
+2021-04-08 02:49:24,370 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for fault_2
+2021-04-08 02:49:24,371 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 02:49:24,371 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 02:49:24,371 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 18005 x 4416
+2021-04-08 02:49:24,371 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 18005 x 4416
+2021-04-08 02:49:24,398 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 02:49:24,398 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 02:49:24,399 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 02:49:24,399 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 02:49:26,734 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for fault_1
+2021-04-08 02:49:26,734 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for fault_1
+2021-04-08 02:49:26,735 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 02:49:26,735 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 02:49:26,735 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 18369 x 4416
+2021-04-08 02:49:26,735 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 18369 x 4416
+2021-04-08 02:49:26,763 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 02:49:26,763 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 02:49:26,765 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 02:49:26,765 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 02:49:28,471 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to fault_2
+2021-04-08 02:49:28,471 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to fault_2
+2021-04-08 02:49:28,578 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for fault_2
+2021-04-08 02:49:28,578 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for fault_2
+2021-04-08 02:49:28,578 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 02:49:28,578 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 02:49:28,579 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 36010 x 4416
+2021-04-08 02:49:28,579 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 36010 x 4416
+2021-04-08 02:49:28,631 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 02:49:28,631 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 02:49:28,633 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 02:49:28,633 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 02:49:30,528 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Creating regular tetrahedron mesh with 93860 elements 
+for modelling using DFI
+2021-04-08 02:49:30,528 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Creating regular tetrahedron mesh with 93860 elements 
+for modelling using DFI
+2021-04-08 02:49:30,530 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 21060 degrees of freedom
+2021-04-08 02:49:30,530 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 21060 degrees of freedom
+2021-04-08 02:49:30,539 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 21060 degrees of freedom
+2021-04-08 02:49:30,539 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 21060 degrees of freedom
+2021-04-08 02:49:30,540 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 1 faults to s0
+2021-04-08 02:49:30,540 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 1 faults to s0
+2021-04-08 02:49:30,603 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 1 faults to s1_0
+2021-04-08 02:49:30,603 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 1 faults to s1_0
+2021-04-08 02:49:30,627 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Setting gradient points to norm constraints
+2021-04-08 02:49:30,627 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Setting gradient points to norm constraints
+2021-04-08 02:49:30,745 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for s1_0
+2021-04-08 02:49:30,745 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for s1_0
+2021-04-08 02:49:30,746 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 48741 x 10912
+2021-04-08 02:49:30,746 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 48741 x 10912
+2021-04-08 02:49:30,815 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 02:49:30,815 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 02:49:30,818 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving with pyamg solve
+2021-04-08 02:49:30,818 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving with pyamg solve
+2021-04-08 02:49:30,836 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using pyamg: tol 1e-12
+2021-04-08 02:49:30,836 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using pyamg: tol 1e-12
+2021-04-08 02:49:49,776 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 1 faults to s1_1
+2021-04-08 02:49:49,776 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 1 faults to s1_1
+2021-04-08 02:49:49,808 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Setting gradient points to norm constraints
+2021-04-08 02:49:49,808 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Setting gradient points to norm constraints
+2021-04-08 02:49:49,992 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for s1_1
+2021-04-08 02:49:49,992 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for s1_1
+2021-04-08 02:49:49,993 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 49686 x 10912
+2021-04-08 02:49:49,993 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 49686 x 10912
+2021-04-08 02:49:50,069 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 02:49:50,069 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 02:49:50,072 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving with pyamg solve
+2021-04-08 02:49:50,072 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving with pyamg solve
+2021-04-08 02:49:50,072 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using pyamg: tol 1e-12
+2021-04-08 02:49:50,072 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using pyamg: tol 1e-12
+2021-04-08 02:50:03,819 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Calculating S-Variogram
+2021-04-08 02:50:03,819 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Calculating S-Variogram
+2021-04-08 02:50:03,819 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Using average minimum nearest neighbour distance as lag distance size 0.04978093251049758 and using 24 lags
+2021-04-08 02:50:03,819 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Using average minimum nearest neighbour distance as lag distance size 0.04978093251049758 and using 24 lags
+2021-04-08 02:50:03,821 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Calculating S-Variogram
+2021-04-08 02:50:03,821 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Calculating S-Variogram
+2021-04-08 02:50:03,824 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ Guess: 0.000000 0.000000 0.000000 1.692552
+2021-04-08 02:50:03,824 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ Guess: 0.000000 0.000000 0.000000 1.692552
+2021-04-08 02:50:03,825 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ There are 0 nans for the fold limb rotation angle and 44 observations
+2021-04-08 02:50:03,825 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ There are 0 nans for the fold limb rotation angle and 44 observations
+2021-04-08 02:50:03,827 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ Fitted: -0.001445 -0.000701 -0.004319 1.636000
+2021-04-08 02:50:03,827 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ Fitted: -0.001445 -0.000701 -0.004319 1.636000
+2021-04-08 02:50:03,858 ~ LoopStructural.modelling.fold.foldframe ~ INFO       ~ Not using fold axis for fold limb rotation angle calculation
+2021-04-08 02:50:03,858 ~ LoopStructural.modelling.fold.foldframe ~ INFO       ~ Not using fold axis for fold limb rotation angle calculation
+2021-04-08 02:50:03,858 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Calculating S-Variogram
+2021-04-08 02:50:03,858 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Calculating S-Variogram
+2021-04-08 02:50:03,858 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Using average minimum nearest neighbour distance as lag distance size 0.061837314304122246 and using 23 lags
+2021-04-08 02:50:03,858 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Using average minimum nearest neighbour distance as lag distance size 0.061837314304122246 and using 23 lags
+2021-04-08 02:50:03,861 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Calculating S-Variogram
+2021-04-08 02:50:03,861 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Calculating S-Variogram
+2021-04-08 02:50:03,863 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ Guess: 0.000000 0.000000 0.000000 1.298584
+2021-04-08 02:50:03,863 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ Guess: 0.000000 0.000000 0.000000 1.298584
+2021-04-08 02:50:03,863 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ There are 0 nans for the fold limb rotation angle and 44 observations
+2021-04-08 02:50:03,863 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ There are 0 nans for the fold limb rotation angle and 44 observations
+2021-04-08 02:50:03,866 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ Fitted: -0.000517 -0.048567 -0.027408 1.261391
+2021-04-08 02:50:03,866 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ Fitted: -0.000517 -0.048567 -0.027408 1.261391
+2021-04-08 02:50:03,866 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Adding s0 to model at location 3
+2021-04-08 02:50:03,866 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Adding s0 to model at location 3
+2021-04-08 02:50:03,902 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to fault_0
+2021-04-08 02:50:03,902 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to fault_0
+2021-04-08 02:50:03,910 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Setting gradient points to norm constraints
+2021-04-08 02:50:03,910 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Setting gradient points to norm constraints
+2021-04-08 02:50:03,973 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for fault_0
+2021-04-08 02:50:03,973 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for fault_0
+2021-04-08 02:50:03,973 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 02:50:03,973 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 02:50:03,974 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 35344 x 4416
+2021-04-08 02:50:03,974 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 35344 x 4416
+2021-04-08 02:50:04,023 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 02:50:04,023 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 02:50:04,024 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 02:50:04,024 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 02:50:06,412 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to fault_1
+2021-04-08 02:50:06,412 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to fault_1
+2021-04-08 02:50:06,520 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for fault_1
+2021-04-08 02:50:06,520 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for fault_1
+2021-04-08 02:50:06,520 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 02:50:06,520 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 02:50:06,521 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 36738 x 4416
+2021-04-08 02:50:06,521 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 36738 x 4416
+2021-04-08 02:50:06,576 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 02:50:06,576 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 02:50:06,578 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 02:50:06,578 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 02:50:08,177 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to fault_2
+2021-04-08 02:50:08,177 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to fault_2
+2021-04-08 02:50:08,287 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for fault_2
+2021-04-08 02:50:08,287 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for fault_2
+2021-04-08 02:50:08,287 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 02:50:08,287 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 02:50:08,288 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 54015 x 4416
+2021-04-08 02:50:08,288 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 54015 x 4416
+2021-04-08 02:50:08,365 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 02:50:08,365 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 02:50:08,367 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 02:50:08,367 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 02:50:09,992 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 2 faults to s0
+2021-04-08 02:50:09,992 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 2 faults to s0
+2021-04-08 02:50:10,068 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding fold to s0
+2021-04-08 02:50:10,068 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding fold to s0
+2021-04-08 02:50:10,332 ~ LoopStructural.modelling.fold.fold ~ INFO       ~ Using fold_axis_rotation function
+2021-04-08 02:50:10,332 ~ LoopStructural.modelling.fold.fold ~ INFO       ~ Using fold_axis_rotation function
+2021-04-08 02:50:11,524 ~ LoopStructural.interpolators.discrete_fold_interpolator ~ INFO       ~ Adding fold orientation constraint to s0 w = 10.000000
+2021-04-08 02:50:11,524 ~ LoopStructural.interpolators.discrete_fold_interpolator ~ INFO       ~ Adding fold orientation constraint to s0 w = 10.000000
+2021-04-08 02:50:11,566 ~ LoopStructural.interpolators.discrete_fold_interpolator ~ INFO       ~ Adding fold axis constraint to s0 w = 10.000000
+2021-04-08 02:50:11,566 ~ LoopStructural.interpolators.discrete_fold_interpolator ~ INFO       ~ Adding fold axis constraint to s0 w = 10.000000
+2021-04-08 02:50:11,615 ~ LoopStructural.interpolators.discrete_fold_interpolator ~ INFO       ~ Adding fold normalisation constraint to s0 w = 1.000000
+2021-04-08 02:50:11,615 ~ LoopStructural.interpolators.discrete_fold_interpolator ~ INFO       ~ Adding fold normalisation constraint to s0 w = 1.000000
+2021-04-08 02:50:11,657 ~ LoopStructural.interpolators.discrete_fold_interpolator ~ INFO       ~ Adding fold regularisation constraint to s0 w = 0.1 0.01 0.01
+2021-04-08 02:50:11,657 ~ LoopStructural.interpolators.discrete_fold_interpolator ~ INFO       ~ Adding fold regularisation constraint to s0 w = 0.1 0.01 0.01
+2021-04-08 02:50:13,205 ~ LoopStructural.interpolators.piecewiselinear_interpolator ~ INFO       ~ Setting up PLI interpolator for s0
+2021-04-08 02:50:13,205 ~ LoopStructural.interpolators.piecewiselinear_interpolator ~ INFO       ~ Setting up PLI interpolator for s0
+2021-04-08 02:50:13,205 ~ LoopStructural.interpolators.piecewiselinear_interpolator ~ INFO       ~ Added 44 gradient constraints, 0 normal constraints,0 tangent constraints and 0 value constraintsto s0
+2021-04-08 02:50:13,205 ~ LoopStructural.interpolators.piecewiselinear_interpolator ~ INFO       ~ Added 44 gradient constraints, 0 normal constraints,0 tangent constraints and 0 value constraintsto s0
+2021-04-08 02:50:13,209 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for s0
+2021-04-08 02:50:13,209 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for s0
+2021-04-08 02:50:13,209 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 02:50:13,209 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 02:50:13,210 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 690814 x 21060
+2021-04-08 02:50:13,210 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 690814 x 21060
+2021-04-08 02:50:14,539 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 02:50:14,539 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 02:50:14,543 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 02:50:14,543 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 02:50:51,096 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at -0.074506
+2021-04-08 02:50:51,096 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at -0.074506
+2021-04-08 02:50:51,096 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at -0.074506
+2021-04-08 02:50:51,100 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at -0.038955
+2021-04-08 02:50:51,100 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at -0.038955
+2021-04-08 02:50:51,100 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at -0.038955
+2021-04-08 02:50:51,103 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at -0.003403
+2021-04-08 02:50:51,103 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at -0.003403
+2021-04-08 02:50:51,103 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at -0.003403
+2021-04-08 02:50:51,107 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at 0.032148
+2021-04-08 02:50:51,107 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at 0.032148
+2021-04-08 02:50:51,107 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at 0.032148
+2021-04-08 02:50:51,229 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Shuffling points
+2021-04-08 02:50:51,229 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Shuffling points
+2021-04-08 02:50:51,288 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Shuffling points
+2021-04-08 02:50:51,288 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Shuffling points
+2021-04-08 02:50:51,344 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Adding scalar field of s0 to viewer. Min: -0.078019, max: 0.034446
+2021-04-08 02:50:51,344 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Adding scalar field of s0 to viewer. Min: -0.078019, max: 0.034446
+2021-04-08 02:50:51,344 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Adding scalar field of s0 to viewer. Min: -0.078019, max: 0.034446
+2021-04-08 02:50:55,728 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Initialising geological model
+2021-04-08 02:50:55,728 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Initialising geological model
+2021-04-08 02:50:55,728 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Model origin: 0.0 0.0 0.0
+2021-04-08 02:50:55,728 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Model origin: 0.0 0.0 0.0
+2021-04-08 02:50:55,728 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Model maximum: 10000.0 7000.0 5000.0
+2021-04-08 02:50:55,728 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Model maximum: 10000.0 7000.0 5000.0
+2021-04-08 02:50:55,728 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Rescaling model using scale factor 10000.0
+2021-04-08 02:50:55,728 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Rescaling model using scale factor 10000.0
+2021-04-08 02:50:55,729 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Reusing interpolation supports: False
+2021-04-08 02:50:55,729 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Reusing interpolation supports: False
+2021-04-08 02:50:55,729 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Adding data to GeologicalModel with 513 data points
+2021-04-08 02:50:55,729 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Adding data to GeologicalModel with 513 data points
+2021-04-08 02:50:55,739 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Converting strike and dip to vectors
+2021-04-08 02:50:55,739 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Converting strike and dip to vectors
+2021-04-08 02:50:55,746 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Creating regular grid with 9450 elements 
+for modelling using FDI
+2021-04-08 02:50:55,746 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Creating regular grid with 9450 elements 
+for modelling using FDI
+2021-04-08 02:50:55,747 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 10912 degrees of freedom
+2021-04-08 02:50:55,747 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 10912 degrees of freedom
+2021-04-08 02:50:55,748 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 10912 degrees of freedom
+2021-04-08 02:50:55,748 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 10912 degrees of freedom
+2021-04-08 02:50:55,748 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 10912 degrees of freedom
+2021-04-08 02:50:55,748 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 10912 degrees of freedom
+2021-04-08 02:50:55,752 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 02:50:55,752 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 02:50:55,755 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 02:50:55,755 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 02:50:55,758 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 02:50:55,758 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 02:50:55,761 ~ LoopStructural.modelling.features.structural_frame_builder ~ INFO       ~ Building s1 coordinate 0
+2021-04-08 02:50:55,761 ~ LoopStructural.modelling.features.structural_frame_builder ~ INFO       ~ Building s1 coordinate 0
+2021-04-08 02:50:55,761 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 02:50:55,761 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 02:50:55,762 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 02:50:55,762 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 02:50:55,762 ~ LoopStructural.modelling.features.structural_frame_builder ~ INFO       ~ Building s1 coordinate 1
+2021-04-08 02:50:55,762 ~ LoopStructural.modelling.features.structural_frame_builder ~ INFO       ~ Building s1 coordinate 1
+2021-04-08 02:50:55,763 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Adding s1 to model at location 1
+2021-04-08 02:50:55,763 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Adding s1 to model at location 1
+2021-04-08 02:50:55,763 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Creating regular tetrahedron mesh with 93860 elements 
+for modelling using DFI
+2021-04-08 02:50:55,763 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Creating regular tetrahedron mesh with 93860 elements 
+for modelling using DFI
+2021-04-08 02:50:55,764 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 21060 degrees of freedom
+2021-04-08 02:50:55,764 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 21060 degrees of freedom
+2021-04-08 02:50:55,769 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 21060 degrees of freedom
+2021-04-08 02:50:55,769 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 21060 degrees of freedom
+2021-04-08 02:50:55,769 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to s0
+2021-04-08 02:50:55,769 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to s0
+2021-04-08 02:50:55,786 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to s1_0
+2021-04-08 02:50:55,786 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to s1_0
+2021-04-08 02:50:55,794 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Setting gradient points to norm constraints
+2021-04-08 02:50:55,794 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Setting gradient points to norm constraints
+2021-04-08 02:50:55,911 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for s1_0
+2021-04-08 02:50:55,911 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for s1_0
+2021-04-08 02:50:55,912 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 48741 x 10912
+2021-04-08 02:50:55,912 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 48741 x 10912
+2021-04-08 02:50:55,981 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 02:50:55,981 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 02:50:55,984 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving with pyamg solve
+2021-04-08 02:50:55,984 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving with pyamg solve
+2021-04-08 02:50:55,984 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using pyamg: tol 1e-12
+2021-04-08 02:50:55,984 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using pyamg: tol 1e-12
+2021-04-08 02:51:02,622 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to s1_1
+2021-04-08 02:51:02,622 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to s1_1
+2021-04-08 02:51:02,636 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Setting gradient points to norm constraints
+2021-04-08 02:51:02,636 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Setting gradient points to norm constraints
+2021-04-08 02:51:02,808 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for s1_1
+2021-04-08 02:51:02,808 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for s1_1
+2021-04-08 02:51:02,809 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 49686 x 10912
+2021-04-08 02:51:02,809 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 49686 x 10912
+2021-04-08 02:51:02,880 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 02:51:02,880 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 02:51:02,882 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving with pyamg solve
+2021-04-08 02:51:02,882 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving with pyamg solve
+2021-04-08 02:51:02,882 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using pyamg: tol 1e-12
+2021-04-08 02:51:02,882 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using pyamg: tol 1e-12
+2021-04-08 02:51:17,119 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Calculating S-Variogram
+2021-04-08 02:51:17,119 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Calculating S-Variogram
+2021-04-08 02:51:17,119 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Using average minimum nearest neighbour distance as lag distance size 0.03521664061810563 and using 23 lags
+2021-04-08 02:51:17,119 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Using average minimum nearest neighbour distance as lag distance size 0.03521664061810563 and using 23 lags
+2021-04-08 02:51:17,121 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Calculating S-Variogram
+2021-04-08 02:51:17,121 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Calculating S-Variogram
+2021-04-08 02:51:17,124 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ Guess: 0.000000 0.000000 0.000000 1.162149
+2021-04-08 02:51:17,124 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ Guess: 0.000000 0.000000 0.000000 1.162149
+2021-04-08 02:51:17,124 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ There are 0 nans for the fold limb rotation angle and 44 observations
+2021-04-08 02:51:17,124 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ There are 0 nans for the fold limb rotation angle and 44 observations
+2021-04-08 02:51:17,126 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ Fitted: -0.002882 0.000883 -0.004857 1.055196
+2021-04-08 02:51:17,126 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ Fitted: -0.002882 0.000883 -0.004857 1.055196
+2021-04-08 02:51:17,128 ~ LoopStructural.modelling.fold.foldframe ~ INFO       ~ Not using fold axis for fold limb rotation angle calculation
+2021-04-08 02:51:17,128 ~ LoopStructural.modelling.fold.foldframe ~ INFO       ~ Not using fold axis for fold limb rotation angle calculation
+2021-04-08 02:51:17,128 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Calculating S-Variogram
+2021-04-08 02:51:17,128 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Calculating S-Variogram
+2021-04-08 02:51:17,129 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Using average minimum nearest neighbour distance as lag distance size 0.11031205812124907 and using 24 lags
+2021-04-08 02:51:17,129 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Using average minimum nearest neighbour distance as lag distance size 0.11031205812124907 and using 24 lags
+2021-04-08 02:51:17,131 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Calculating S-Variogram
+2021-04-08 02:51:17,131 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Calculating S-Variogram
+2021-04-08 02:51:17,133 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ Guess: 0.000000 0.000000 0.000000 2.757801
+2021-04-08 02:51:17,133 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ Guess: 0.000000 0.000000 0.000000 2.757801
+2021-04-08 02:51:17,134 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ There are 0 nans for the fold limb rotation angle and 44 observations
+2021-04-08 02:51:17,134 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ There are 0 nans for the fold limb rotation angle and 44 observations
+2021-04-08 02:51:17,136 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ Fitted: -0.001304 -0.035892 -0.042360 2.419057
+2021-04-08 02:51:17,136 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ Fitted: -0.001304 -0.035892 -0.042360 2.419057
+2021-04-08 02:51:17,136 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Adding s0 to model at location 2
+2021-04-08 02:51:17,136 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Adding s0 to model at location 2
+2021-04-08 02:51:17,187 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to s0
+2021-04-08 02:51:17,187 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to s0
+2021-04-08 02:51:17,201 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Setting gradient points to norm constraints
+2021-04-08 02:51:17,201 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Setting gradient points to norm constraints
+2021-04-08 02:51:17,215 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding fold to s0
+2021-04-08 02:51:17,215 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding fold to s0
+2021-04-08 02:51:17,485 ~ LoopStructural.modelling.fold.fold ~ INFO       ~ Using fold_axis_rotation function
+2021-04-08 02:51:17,485 ~ LoopStructural.modelling.fold.fold ~ INFO       ~ Using fold_axis_rotation function
+2021-04-08 02:51:17,871 ~ LoopStructural.interpolators.discrete_fold_interpolator ~ INFO       ~ Adding fold orientation constraint to s0 w = 10.000000
+2021-04-08 02:51:17,871 ~ LoopStructural.interpolators.discrete_fold_interpolator ~ INFO       ~ Adding fold orientation constraint to s0 w = 10.000000
+2021-04-08 02:51:17,898 ~ LoopStructural.interpolators.discrete_fold_interpolator ~ INFO       ~ Adding fold axis constraint to s0 w = 10.000000
+2021-04-08 02:51:17,898 ~ LoopStructural.interpolators.discrete_fold_interpolator ~ INFO       ~ Adding fold axis constraint to s0 w = 10.000000
+2021-04-08 02:51:17,932 ~ LoopStructural.interpolators.discrete_fold_interpolator ~ INFO       ~ Adding fold normalisation constraint to s0 w = 1.000000
+2021-04-08 02:51:17,932 ~ LoopStructural.interpolators.discrete_fold_interpolator ~ INFO       ~ Adding fold normalisation constraint to s0 w = 1.000000
+2021-04-08 02:51:17,958 ~ LoopStructural.interpolators.discrete_fold_interpolator ~ INFO       ~ Adding fold regularisation constraint to s0 w = 0.1 0.01 0.01
+2021-04-08 02:51:17,958 ~ LoopStructural.interpolators.discrete_fold_interpolator ~ INFO       ~ Adding fold regularisation constraint to s0 w = 0.1 0.01 0.01
+2021-04-08 02:51:19,241 ~ LoopStructural.interpolators.piecewiselinear_interpolator ~ INFO       ~ Setting up PLI interpolator for s0
+2021-04-08 02:51:19,241 ~ LoopStructural.interpolators.piecewiselinear_interpolator ~ INFO       ~ Setting up PLI interpolator for s0
+2021-04-08 02:51:19,241 ~ LoopStructural.interpolators.piecewiselinear_interpolator ~ INFO       ~ Added 0 gradient constraints, 44 normal constraints,0 tangent constraints and 0 value constraintsto s0
+2021-04-08 02:51:19,241 ~ LoopStructural.interpolators.piecewiselinear_interpolator ~ INFO       ~ Added 0 gradient constraints, 44 normal constraints,0 tangent constraints and 0 value constraintsto s0
+2021-04-08 02:51:19,244 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for s0
+2021-04-08 02:51:19,244 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for s0
+2021-04-08 02:51:19,245 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 02:51:19,245 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 02:51:19,246 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 690858 x 21060
+2021-04-08 02:51:19,246 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 690858 x 21060
+2021-04-08 02:51:19,722 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 02:51:19,722 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 02:51:19,725 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 02:51:19,725 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 02:51:35,731 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at -0.074506
+2021-04-08 02:51:35,731 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at -0.074506
+2021-04-08 02:51:35,731 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at -0.074506
+2021-04-08 02:51:35,733 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at -0.038955
+2021-04-08 02:51:35,733 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at -0.038955
+2021-04-08 02:51:35,733 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at -0.038955
+2021-04-08 02:51:35,736 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at -0.003403
+2021-04-08 02:51:35,736 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at -0.003403
+2021-04-08 02:51:35,736 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at -0.003403
+2021-04-08 02:51:35,740 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at 0.032148
+2021-04-08 02:51:35,740 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at 0.032148
+2021-04-08 02:51:35,740 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at 0.032148
+2021-04-08 02:51:35,853 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Shuffling points
+2021-04-08 02:51:35,853 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Shuffling points
+2021-04-08 02:51:35,905 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Shuffling points
+2021-04-08 02:51:35,905 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Shuffling points
+2021-04-08 02:51:35,966 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Adding scalar field of s0 to viewer. Min: -0.078019, max: 0.034446
+2021-04-08 02:51:35,966 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Adding scalar field of s0 to viewer. Min: -0.078019, max: 0.034446
+2021-04-08 02:51:35,966 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Adding scalar field of s0 to viewer. Min: -0.078019, max: 0.034446
+2021-04-08 02:51:54,266 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at -0.048622
+2021-04-08 02:51:54,266 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at -0.048622
+2021-04-08 02:51:54,266 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at -0.048622
+2021-04-08 02:51:54,268 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at -0.012119
+2021-04-08 02:51:54,268 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at -0.012119
+2021-04-08 02:51:54,268 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at -0.012119
+2021-04-08 02:51:54,270 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at 0.024384
+2021-04-08 02:51:54,270 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at 0.024384
+2021-04-08 02:51:54,270 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at 0.024384
+2021-04-08 02:51:54,274 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at 0.060886
+2021-04-08 02:51:54,274 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at 0.060886
+2021-04-08 02:51:54,274 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Creating isosurface of s0 at 0.060886
+2021-04-08 02:51:54,307 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Shuffling points
+2021-04-08 02:51:54,307 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Shuffling points
+2021-04-08 02:51:54,312 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Shuffling points
+2021-04-08 02:51:54,312 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Shuffling points
+2021-04-08 02:51:54,317 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Adding scalar field of s0 to viewer. Min: -0.054706, max: 0.064547
+2021-04-08 02:51:54,317 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Adding scalar field of s0 to viewer. Min: -0.054706, max: 0.064547
+2021-04-08 02:51:54,317 ~ LoopStructural.visualisation.model_visualisation ~ INFO       ~ Adding scalar field of s0 to viewer. Min: -0.054706, max: 0.064547
+2021-04-08 03:26:09,008 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Initialising geological model
+2021-04-08 03:26:09,008 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Initialising geological model
+2021-04-08 03:26:09,008 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Model origin: 0.0 0.0 0.0
+2021-04-08 03:26:09,008 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Model origin: 0.0 0.0 0.0
+2021-04-08 03:26:09,009 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Model maximum: 10000.0 7000.0 5000.0
+2021-04-08 03:26:09,009 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Model maximum: 10000.0 7000.0 5000.0
+2021-04-08 03:26:09,009 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Rescaling model using scale factor 10000.0
+2021-04-08 03:26:09,009 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Rescaling model using scale factor 10000.0
+2021-04-08 03:26:09,009 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Reusing interpolation supports: False
+2021-04-08 03:26:09,009 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Reusing interpolation supports: False
+2021-04-08 03:26:09,009 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Adding data to GeologicalModel with 513 data points
+2021-04-08 03:26:09,009 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Adding data to GeologicalModel with 513 data points
+2021-04-08 03:26:09,016 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Converting strike and dip to vectors
+2021-04-08 03:26:09,016 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Converting strike and dip to vectors
+2021-04-08 03:26:09,023 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Creating regular grid with 9450 elements 
+for modelling using FDI
+2021-04-08 03:26:09,023 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Creating regular grid with 9450 elements 
+for modelling using FDI
+2021-04-08 03:26:09,024 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 10912 degrees of freedom
+2021-04-08 03:26:09,024 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 10912 degrees of freedom
+2021-04-08 03:26:09,025 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 10912 degrees of freedom
+2021-04-08 03:26:09,025 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 10912 degrees of freedom
+2021-04-08 03:26:09,026 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 10912 degrees of freedom
+2021-04-08 03:26:09,026 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 10912 degrees of freedom
+2021-04-08 03:26:09,029 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 03:26:09,029 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 03:26:09,032 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 03:26:09,032 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 03:26:09,035 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 03:26:09,035 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 03:26:09,049 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Setting mesh origin: -0.1 -0.06999999999999999 -0.05 
+2021-04-08 03:26:09,049 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Setting mesh origin: -0.1 -0.06999999999999999 -0.05 
+2021-04-08 03:26:09,049 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Setting mesh maximum: 1.1 0.7699999999999999 0.55
+2021-04-08 03:26:09,049 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Setting mesh maximum: 1.1 0.7699999999999999 0.55
+2021-04-08 03:26:09,049 ~ LoopStructural.modelling.features.structural_frame_builder ~ INFO       ~ Building fault coordinate 0
+2021-04-08 03:26:09,049 ~ LoopStructural.modelling.features.structural_frame_builder ~ INFO       ~ Building fault coordinate 0
+2021-04-08 03:26:09,050 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 4416 degrees of freedom
+2021-04-08 03:26:09,050 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 4416 degrees of freedom
+2021-04-08 03:26:09,050 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 4416 degrees of freedom
+2021-04-08 03:26:09,050 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 4416 degrees of freedom
+2021-04-08 03:26:09,050 ~ LoopStructural.modelling.features.structural_frame_builder ~ INFO       ~ Building fault coordinate 2
+2021-04-08 03:26:09,050 ~ LoopStructural.modelling.features.structural_frame_builder ~ INFO       ~ Building fault coordinate 2
+2021-04-08 03:26:09,050 ~ LoopStructural.modelling.features.structural_frame_builder ~ INFO       ~ Building fault coordinate 1
+2021-04-08 03:26:09,050 ~ LoopStructural.modelling.features.structural_frame_builder ~ INFO       ~ Building fault coordinate 1
+2021-04-08 03:26:09,051 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Adding fault to model at location 1
+2021-04-08 03:26:09,051 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Adding fault to model at location 1
+2021-04-08 03:26:09,051 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Creating regular grid with 9450 elements 
+for modelling using FDI
+2021-04-08 03:26:09,051 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Creating regular grid with 9450 elements 
+for modelling using FDI
+2021-04-08 03:26:09,052 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 10912 degrees of freedom
+2021-04-08 03:26:09,052 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 10912 degrees of freedom
+2021-04-08 03:26:09,053 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 10912 degrees of freedom
+2021-04-08 03:26:09,053 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 10912 degrees of freedom
+2021-04-08 03:26:09,054 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 10912 degrees of freedom
+2021-04-08 03:26:09,054 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 10912 degrees of freedom
+2021-04-08 03:26:09,057 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 03:26:09,057 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 03:26:09,060 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 03:26:09,060 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 03:26:09,063 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 03:26:09,063 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 03:26:09,065 ~ LoopStructural.modelling.features.structural_frame_builder ~ INFO       ~ Building s1 coordinate 0
+2021-04-08 03:26:09,065 ~ LoopStructural.modelling.features.structural_frame_builder ~ INFO       ~ Building s1 coordinate 0
+2021-04-08 03:26:09,066 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 03:26:09,066 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 03:26:09,067 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 03:26:09,067 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 10912 degrees of freedom
+2021-04-08 03:26:09,067 ~ LoopStructural.modelling.features.structural_frame_builder ~ INFO       ~ Building s1 coordinate 1
+2021-04-08 03:26:09,067 ~ LoopStructural.modelling.features.structural_frame_builder ~ INFO       ~ Building s1 coordinate 1
+2021-04-08 03:26:09,067 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Adding s1 to model at location 2
+2021-04-08 03:26:09,067 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Adding s1 to model at location 2
+2021-04-08 03:26:09,093 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to fault_0
+2021-04-08 03:26:09,093 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to fault_0
+2021-04-08 03:26:09,102 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Setting gradient points to norm constraints
+2021-04-08 03:26:09,102 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Setting gradient points to norm constraints
+2021-04-08 03:26:09,162 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for fault_0
+2021-04-08 03:26:09,162 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for fault_0
+2021-04-08 03:26:09,162 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 03:26:09,162 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 03:26:09,163 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 17672 x 4416
+2021-04-08 03:26:09,163 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 17672 x 4416
+2021-04-08 03:26:09,188 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 03:26:09,188 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 03:26:09,190 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 03:26:09,190 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 03:26:11,601 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to fault_1
+2021-04-08 03:26:11,601 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to fault_1
+2021-04-08 03:26:11,631 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to fault_2
+2021-04-08 03:26:11,631 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to fault_2
+2021-04-08 03:26:11,715 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for fault_2
+2021-04-08 03:26:11,715 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for fault_2
+2021-04-08 03:26:11,715 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 03:26:11,715 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 03:26:11,716 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 18005 x 4416
+2021-04-08 03:26:11,716 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 18005 x 4416
+2021-04-08 03:26:11,743 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 03:26:11,743 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 03:26:11,744 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 03:26:11,744 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 03:26:13,659 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for fault_1
+2021-04-08 03:26:13,659 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for fault_1
+2021-04-08 03:26:13,659 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 03:26:13,659 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 03:26:13,661 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 18369 x 4416
+2021-04-08 03:26:13,661 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 18369 x 4416
+2021-04-08 03:26:13,691 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 03:26:13,691 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 03:26:13,693 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 03:26:13,693 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 03:26:15,660 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to fault_2
+2021-04-08 03:26:15,660 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to fault_2
+2021-04-08 03:26:15,767 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for fault_2
+2021-04-08 03:26:15,767 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for fault_2
+2021-04-08 03:26:15,768 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 03:26:15,768 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 03:26:15,768 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 36010 x 4416
+2021-04-08 03:26:15,768 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 36010 x 4416
+2021-04-08 03:26:15,820 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 03:26:15,820 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 03:26:15,821 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 03:26:15,821 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 03:26:17,675 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Creating regular tetrahedron mesh with 93860 elements 
+for modelling using DFI
+2021-04-08 03:26:17,675 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Creating regular tetrahedron mesh with 93860 elements 
+for modelling using DFI
+2021-04-08 03:26:17,678 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 21060 degrees of freedom
+2021-04-08 03:26:17,678 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Creating discrete interpolator with 21060 degrees of freedom
+2021-04-08 03:26:17,686 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 21060 degrees of freedom
+2021-04-08 03:26:17,686 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation now uses region and has 21060 degrees of freedom
+2021-04-08 03:26:17,687 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 1 faults to s0
+2021-04-08 03:26:17,687 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 1 faults to s0
+2021-04-08 03:26:17,753 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 1 faults to s1_0
+2021-04-08 03:26:17,753 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 1 faults to s1_0
+2021-04-08 03:26:17,776 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Setting gradient points to norm constraints
+2021-04-08 03:26:17,776 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Setting gradient points to norm constraints
+2021-04-08 03:26:17,896 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for s1_0
+2021-04-08 03:26:17,896 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for s1_0
+2021-04-08 03:26:17,897 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 48741 x 10912
+2021-04-08 03:26:17,897 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 48741 x 10912
+2021-04-08 03:26:17,966 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 03:26:17,966 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 03:26:17,969 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving with pyamg solve
+2021-04-08 03:26:17,969 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving with pyamg solve
+2021-04-08 03:26:17,969 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using pyamg: tol 1e-12
+2021-04-08 03:26:17,969 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using pyamg: tol 1e-12
+2021-04-08 03:26:36,859 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 1 faults to s1_1
+2021-04-08 03:26:36,859 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 1 faults to s1_1
+2021-04-08 03:26:36,891 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Setting gradient points to norm constraints
+2021-04-08 03:26:36,891 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Setting gradient points to norm constraints
+2021-04-08 03:26:37,072 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for s1_1
+2021-04-08 03:26:37,072 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for s1_1
+2021-04-08 03:26:37,073 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 49686 x 10912
+2021-04-08 03:26:37,073 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 49686 x 10912
+2021-04-08 03:26:37,146 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 03:26:37,146 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 03:26:37,149 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving with pyamg solve
+2021-04-08 03:26:37,149 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving with pyamg solve
+2021-04-08 03:26:37,149 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using pyamg: tol 1e-12
+2021-04-08 03:26:37,149 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using pyamg: tol 1e-12
+2021-04-08 03:26:50,694 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Calculating S-Variogram
+2021-04-08 03:26:50,694 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Calculating S-Variogram
+2021-04-08 03:26:50,695 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Using average minimum nearest neighbour distance as lag distance size 0.04958616850747939 and using 24 lags
+2021-04-08 03:26:50,695 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Using average minimum nearest neighbour distance as lag distance size 0.04958616850747939 and using 24 lags
+2021-04-08 03:26:50,697 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Calculating S-Variogram
+2021-04-08 03:26:50,697 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Calculating S-Variogram
+2021-04-08 03:26:50,700 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ Guess: 0.000000 0.000000 0.000000 1.785102
+2021-04-08 03:26:50,700 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ Guess: 0.000000 0.000000 0.000000 1.785102
+2021-04-08 03:26:50,700 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ There are 0 nans for the fold limb rotation angle and 44 observations
+2021-04-08 03:26:50,700 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ There are 0 nans for the fold limb rotation angle and 44 observations
+2021-04-08 03:26:50,702 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ Fitted: -0.001332 -0.000159 -0.004330 1.655046
+2021-04-08 03:26:50,702 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ Fitted: -0.001332 -0.000159 -0.004330 1.655046
+2021-04-08 03:26:50,732 ~ LoopStructural.modelling.fold.foldframe ~ INFO       ~ Not using fold axis for fold limb rotation angle calculation
+2021-04-08 03:26:50,732 ~ LoopStructural.modelling.fold.foldframe ~ INFO       ~ Not using fold axis for fold limb rotation angle calculation
+2021-04-08 03:26:50,732 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Calculating S-Variogram
+2021-04-08 03:26:50,732 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Calculating S-Variogram
+2021-04-08 03:26:50,732 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Using average minimum nearest neighbour distance as lag distance size 0.06166840547576216 and using 23 lags
+2021-04-08 03:26:50,732 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Using average minimum nearest neighbour distance as lag distance size 0.06166840547576216 and using 23 lags
+2021-04-08 03:26:50,735 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Calculating S-Variogram
+2021-04-08 03:26:50,735 ~ LoopStructural.modelling.fold.svariogram ~ INFO       ~ Calculating S-Variogram
+2021-04-08 03:26:50,737 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ Guess: 0.000000 0.000000 0.000000 1.295037
+2021-04-08 03:26:50,737 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ Guess: 0.000000 0.000000 0.000000 1.295037
+2021-04-08 03:26:50,737 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ There are 0 nans for the fold limb rotation angle and 44 observations
+2021-04-08 03:26:50,737 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ There are 0 nans for the fold limb rotation angle and 44 observations
+2021-04-08 03:26:50,739 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ Fitted: -0.000519 -0.048549 -0.027432 1.261503
+2021-04-08 03:26:50,739 ~ LoopStructural.modelling.fold.fold_rotation_angle ~ INFO       ~ Fitted: -0.000519 -0.048549 -0.027432 1.261503
+2021-04-08 03:26:50,740 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Adding s0 to model at location 3
+2021-04-08 03:26:50,740 ~ LoopStructural.modelling.core.geological_model ~ INFO       ~ Adding s0 to model at location 3
+2021-04-08 03:26:50,781 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to fault_0
+2021-04-08 03:26:50,781 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to fault_0
+2021-04-08 03:26:50,791 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Setting gradient points to norm constraints
+2021-04-08 03:26:50,791 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Setting gradient points to norm constraints
+2021-04-08 03:26:50,857 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for fault_0
+2021-04-08 03:26:50,857 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for fault_0
+2021-04-08 03:26:50,857 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 03:26:50,857 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 03:26:50,858 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 35344 x 4416
+2021-04-08 03:26:50,858 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 35344 x 4416
+2021-04-08 03:26:50,908 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 03:26:50,908 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 03:26:50,909 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 03:26:50,909 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 03:26:53,236 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to fault_1
+2021-04-08 03:26:53,236 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to fault_1
+2021-04-08 03:26:53,342 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for fault_1
+2021-04-08 03:26:53,342 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for fault_1
+2021-04-08 03:26:53,342 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 03:26:53,342 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 03:26:53,343 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 36738 x 4416
+2021-04-08 03:26:53,343 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 36738 x 4416
+2021-04-08 03:26:53,398 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 03:26:53,398 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 03:26:53,400 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 03:26:53,400 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 03:26:55,248 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to fault_2
+2021-04-08 03:26:55,248 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 0 faults to fault_2
+2021-04-08 03:26:55,359 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for fault_2
+2021-04-08 03:26:55,359 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for fault_2
+2021-04-08 03:26:55,359 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 03:26:55,359 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 03:26:55,359 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 54015 x 4416
+2021-04-08 03:26:55,359 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 54015 x 4416
+2021-04-08 03:26:55,437 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 03:26:55,437 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 03:26:55,439 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 03:26:55,439 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 03:26:57,101 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 2 faults to s0
+2021-04-08 03:26:57,101 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding 2 faults to s0
+2021-04-08 03:26:57,171 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding fold to s0
+2021-04-08 03:26:57,171 ~ LoopStructural.modelling.features.geological_feature_builder ~ INFO       ~ Adding fold to s0
+2021-04-08 03:26:57,437 ~ LoopStructural.modelling.fold.fold ~ INFO       ~ Using fold_axis_rotation function
+2021-04-08 03:26:57,437 ~ LoopStructural.modelling.fold.fold ~ INFO       ~ Using fold_axis_rotation function
+2021-04-08 03:26:58,617 ~ LoopStructural.interpolators.discrete_fold_interpolator ~ INFO       ~ Adding fold orientation constraint to s0 w = 10.000000
+2021-04-08 03:26:58,617 ~ LoopStructural.interpolators.discrete_fold_interpolator ~ INFO       ~ Adding fold orientation constraint to s0 w = 10.000000
+2021-04-08 03:26:58,659 ~ LoopStructural.interpolators.discrete_fold_interpolator ~ INFO       ~ Adding fold axis constraint to s0 w = 10.000000
+2021-04-08 03:26:58,659 ~ LoopStructural.interpolators.discrete_fold_interpolator ~ INFO       ~ Adding fold axis constraint to s0 w = 10.000000
+2021-04-08 03:26:58,706 ~ LoopStructural.interpolators.discrete_fold_interpolator ~ INFO       ~ Adding fold normalisation constraint to s0 w = 1.000000
+2021-04-08 03:26:58,706 ~ LoopStructural.interpolators.discrete_fold_interpolator ~ INFO       ~ Adding fold normalisation constraint to s0 w = 1.000000
+2021-04-08 03:26:58,748 ~ LoopStructural.interpolators.discrete_fold_interpolator ~ INFO       ~ Adding fold regularisation constraint to s0 w = 0.1 0.01 0.01
+2021-04-08 03:26:58,748 ~ LoopStructural.interpolators.discrete_fold_interpolator ~ INFO       ~ Adding fold regularisation constraint to s0 w = 0.1 0.01 0.01
+2021-04-08 03:27:00,299 ~ LoopStructural.interpolators.piecewiselinear_interpolator ~ INFO       ~ Setting up PLI interpolator for s0
+2021-04-08 03:27:00,299 ~ LoopStructural.interpolators.piecewiselinear_interpolator ~ INFO       ~ Setting up PLI interpolator for s0
+2021-04-08 03:27:00,300 ~ LoopStructural.interpolators.piecewiselinear_interpolator ~ INFO       ~ Added 44 gradient constraints, 0 normal constraints,0 tangent constraints and 0 value constraintsto s0
+2021-04-08 03:27:00,300 ~ LoopStructural.interpolators.piecewiselinear_interpolator ~ INFO       ~ Added 44 gradient constraints, 0 normal constraints,0 tangent constraints and 0 value constraintsto s0
+2021-04-08 03:27:00,303 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for s0
+2021-04-08 03:27:00,303 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving interpolation for s0
+2021-04-08 03:27:00,304 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 03:27:00,304 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Forcing matrix damping for LU
+2021-04-08 03:27:00,305 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 690814 x 21060
+2021-04-08 03:27:00,305 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Interpolation matrix is 690814 x 21060
+2021-04-08 03:27:01,627 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 03:27:01,627 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Adding eps to matrix diagonal
+2021-04-08 03:27:01,631 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
+2021-04-08 03:27:01,631 ~ LoopStructural.interpolators.discrete_interpolator ~ INFO       ~ Solving using scipy LU
